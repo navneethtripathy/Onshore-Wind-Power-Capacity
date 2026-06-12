@@ -5,7 +5,7 @@
 [![Data: W1_Final_Objective_Dataset](https://img.shields.io/badge/data-W1__Final__Objective__Dataset-orange.svg)](#)
 
 > **Prepared for:** National Institute of Wind Energy (NIWE)  
-> **By:** Energy Analytics Division — Wind Research Team  
+> **By:** Navneeth Tripathy,Neil Nickson,Keith Rocha  
 > **Date:** June 2026  
 > **Data Source:** `W1_Final_Objective_Dataset.xlsx` | MNRE / CEA / PIB / GWEC 2026
 
