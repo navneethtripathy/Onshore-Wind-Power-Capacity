@@ -1,0 +1,32 @@
+year,fy_label,cumulative_gw,annual_addition_gw,use_for_model,notes
+2000,FY1999-00,1.024,0.0,Yes,Observed capacity
+2001,FY2000-01,1.161,0.137,Yes,Observed capacity
+2002,FY2001-02,1.367,0.206,Yes,Observed capacity
+2003,FY2002-03,1.628,0.261,Yes,Observed capacity
+2004,FY2003-04,1.870,0.242,Yes,Observed capacity
+2005,FY2004-05,2.483,0.613,Yes,Observed capacity
+2006,FY2005-06,3.585,1.102,Yes,Observed capacity
+2007,FY2006-07,7.114,3.529,Yes,Observed capacity
+2008,FY2007-08,8.098,0.984,Yes,Observed capacity
+2009,FY2008-09,10.182,2.084,Yes,Observed capacity
+2010,FY2009-10,11.753,1.571,Yes,Observed capacity
+2011,FY2010-11,14.089,2.336,Yes,Observed capacity
+2012,FY2011-12,17.277,3.188,Yes,Observed capacity
+2013,FY2012-13,19.899,2.622,Yes,Observed capacity
+2014,FY2013-14,21.077,1.178,Yes,Observed capacity
+2015,FY2014-15,23.394,2.317,Yes,Observed capacity
+2016,FY2015-16,26.797,3.403,Yes,Observed capacity
+2017,FY2016-17,32.302,5.505,Yes,Observed capacity
+2018,FY2017-18,34.13568,1.83368,Yes,Observed capacity
+2019,FY2018-19,35.626,1.49032,Yes,Observed capacity
+2020,FY2019-20,37.719,2.093,Yes,Observed capacity
+2021,FY2020-21,39.243,1.524,Yes,Observed capacity
+2022,FY2021-22,40.324,1.081,Yes,Observed capacity
+2023,FY2022-23,42.620,2.296,Yes,Observed capacity
+2024,FY2023-24,45.88545,3.26545,Yes,Observed capacity
+2025,FY2024-25,50.03782,4.15237,Yes,Observed capacity
+2026,FY2025-26,,,No,Future forecast year
+2027,FY2026-27,,,No,Future forecast year
+2028,FY2027-28,,,No,Future forecast year
+2029,FY2028-29,,,No,Future forecast year
+2030,FY2029-30,,,No,Future forecast year
